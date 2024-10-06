@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JavaScript Assignment_part1</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+        }
+        h1 {
+            color: #ca5310; /
+        }
+        ul {
+            list-style-type: none; 
+            padding: 0;
+        }
+        li {
+            margin: 10px 0; 
+        }
+        a {
+            font-size: 18px;
+            color: #8f250c; 
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+            color: #fbba72; 
+        }
+    </style>
+</head>
+<body>
+    <h1>JavaScript Assignment - Part 1</h1>
+    <p>Click on the links below to navigate to each problem's solution:</p>
+    <ul>
+        <li><a href="https://shirin-ezz.github.io/js1/js1.html" target="_blank">Problem 1</a></li>
+        <li><a href="https://shirin-ezz.github.io/js2/js2.html" target="_blank">Problem 2</a></li>
+        <li><a href="https://shirin-ezz.github.io/js3/js3.html" target="_blank">Problem 3</a></li>
+        <li><a href="https://shirin-ezz.github.io/js4/js4.html" target="_blank">Problem 4</a></li>
+        <li><a href="https://shirin-ezz.github.io/js5/js5.html" target="_blank">Problem 5</a></li>
+        <li><a href="https://shirin-ezz.github.io/js6/js6.html" target="_blank">Problem 6</a></li>
+    </ul>
+</body>
+</html>
